@@ -1,5 +1,8 @@
 {
   "oneDarkPro.bold": true,
   "oneDarkPro.vivid": true,
-  "files.autoSave": "onFocusChange"
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrap": "on",
+  "editor.codeActions.triggerOnFocusChange": false,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false
 }
