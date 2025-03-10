@@ -1,56 +1,28 @@
-
-body { color: #434455;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em; 
-}
-  
-  ul, ol {list-style-type: none;
-}
-.hero {
-    background: #2e2f42;
+body {
+  font-family: "Roboto", sans-serif;
+  background: var(--white);
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 
-.h1 {
-    color: #fff
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 56px;
-    letter-spacing: 0.02em; 
-    line-height: 60px;
+ul {
+  list-style-type: none;
 }
 
-
-.h2 {
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 36px;
-    letter-spacing: 2%;
+.roboto-serif-<uniquifier > {
+  font-family: "Roboto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "wdth" 100, "GRAD" 0;
 }
 
-.h3 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    letter-spacing: 0.02;text-emphasis-position: ;
-}
-
-
-.body {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-}
-
-
-.p {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 4%;
+.raleway-<uniquifier > {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
